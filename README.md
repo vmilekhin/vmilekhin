@@ -1,28 +1,33 @@
 ### 👋 Привет! Я Виктор.
 
-Здесь собраны мои проекты по нескольким направлениям: от C++ и баз данных до машинного обучения и личных инфраструктурных решений.
+Здесь собраны мои проекты и выполненные модули по курсам машинного обучения, Python и C++.
 
 ---
 
-### ⚙️ C++
-*   [**sader**](https://github.com/vmilekhin/sader) — Учебный C++ проект (Worker/Executor, ProcessWorker, FileWorker).
-*   [**cpp-python-module**](https://github.com/vmilekhin/cpp-python-module) — Модули 7-8: производительность C++ и интеграция с Python через `pybind11`.
+### 🐍 Промышленное программирование на Python
+*Способен разрабатывать системы на Python, использовать PyTorch, создавать REST API, применять LLM и тестировать ML-модели.*
+*   [**ml-module3-hw**](https://github.com/vmilekhin/ml-module3-hw) — Модуль 2: Первая ML-модель (ResNet18 для 5 пород собак).
+*   [**pytorch-dogs**](https://github.com/vmilekhin/pytorch-dogs) — Модуль 2: Учебный проект по PyTorch (ResNet18).
+*   [**ml-module4-forecast**](https://github.com/vmilekhin/ml-module4-forecast) — Модуль 4: Инженерный эксперимент (MLP vs LSTM на данных AAPL).
+*   [**ml-module6-nlp-lstm**](https://github.com/vmilekhin/ml-module6-nlp-lstm) — Модуль 6: NLP и извлечение эмбеддингов через LSTM.
 
-### 🐍 Python
-*   [**drive2-assistant**](https://github.com/vmilekhin/drive2-assistant) — RAG-ассистент на ChromaDB + Ollama для Drive2.ru.
-*   [**notes-backup**](https://github.com/vmilekhin/notes-backup) — Резервная копия контекста и заметок по проектам.
-
-### 🗄️ Базы данных
-*   [**ml-module6-vector-db**](https://github.com/vmilekhin/ml-module6-vector-db) — Векторные БД: сравнение Qdrant и PostgreSQL/pgvector.
-*   [**ml-module6-nlp-lstm**](https://github.com/vmilekhin/ml-module6-nlp-lstm) — NLP: извлечение embeddings через LSTM и поиск в PostgreSQL.
-
-### 🎓 Адаптационный курс по ML и математике
-*   [**ml-module3-hw**](https://github.com/vmilekhin/ml-module3-hw) — Computer Vision: классификация пород собак на ResNet18.
-*   [**ml-module4-forecast**](https://github.com/vmilekhin/ml-module4-forecast) — Forecasting: прогнозирование AAPL (MLP vs LSTM vs Baseline).
+### 🎓 Адаптационный курс по машинному обучению и математике
 *   [**ml-topic1-timeseries**](https://github.com/vmilekhin/ml-topic1-timeseries) — Анализ временных рядов USD/RUB (ARIMA, negative result).
-*   [**pytorch-dogs**](https://github.com/vmilekhin/pytorch-dogs) — Учебный проект по PyTorch (ResNet18).
+
+### 🗄️ Базы данных: хранение и передача информации
+*Умею проектировать схемы PostgreSQL, использовать транзакции, анализировать планы запросов и применять векторные базы данных для эмбеддингов.*
+*   [**ml-module6-vector-db**](https://github.com/vmilekhin/ml-module6-vector-db) — Модуль 6: Векторные БД (сравнение Qdrant и PostgreSQL/pgvector).
+
+### ⚙️ Углубленное программирование на С++
+*Умею применять RAII, smart pointers, move semantics, анализировать производительность и использовать санитайзеры.*
+*   [**sader**](https://github.com/vmilekhin/sader) — Модули 1-2: Учебный C++ проект (RAII, Worker/Executor, ProcessWorker).
+*   [**cpp-python-module**](https://github.com/vmilekhin/cpp-python-module) — Модуль 7: Производительность C++ и интеграция с Python через pybind11.
 
 ### 🏠 Личное
-*   [**vpn-hub**](https://github.com/vmilekhin/vpn-hub) — Личный VPN-хаб с разделением трафика (Xray, 3x-ui).
-*   [**karkusha-crm**](https://github.com/vmilekhin/karkusha-crm) — CRM для логопедического центра «Каркуша».
-*   [**balloons-shop**](https://github.com/vmilekhin/balloons-shop) — Небольшой пет-проект.
+*   [**drive2-assistant**](https://github.com/vmilekhin/drive2-assistant) — RAG-ассистент на ChromaDB + Ollama.
+*   [**vpn-hub**](https://github.com/vmilekhin/vpn-hub) — Личный VPN-хаб с разделением трафика.
+*   [**karkusha-crm**](https://github.com/vmilekhin/karkusha-crm) — CRM для логопедического центра.
+*   [**balloons-shop**](https://github.com/vmilekhin/balloons-shop) — Пет-проект.
+*   [**notes-backup**](https://github.com/vmilekhin/notes-backup) — Бэкап заметок и контекста.
+*   [**fin_news_ai**](https://github.com/vmilekhin/fin_news_ai) — LLM-система анализа финансовых новостей.
+*   [**fin-strategy**](https://github.com/vmilekhin/fin-strategy) — Разработка инвестиционной стратегии.
