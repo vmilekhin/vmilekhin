@@ -10,6 +10,7 @@
 *   [**pytorch-dogs**](https://github.com/vmilekhin/pytorch-dogs) — Модуль 2: Учебный проект по PyTorch (ResNet18).
 *   [**ml-module4-forecast**](https://github.com/vmilekhin/ml-module4-forecast) — Модуль 4: Инженерный эксперимент (MLP vs LSTM на данных AAPL).
 *   [**ml-module6-nlp-lstm**](https://github.com/vmilekhin/ml-module6-nlp-lstm) — Модуль 6: NLP и извлечение эмбеддингов через LSTM.
+*   [**ml-module5-debug**](https://github.com/vmilekhin/ml-module5-debug) — Модуль 5: Отладка и диагностика ML (pdb, TensorBoard).
 
 ### 🎓 Адаптационный курс по машинному обучению и математике
 *   [**ml-topic1-timeseries**](https://github.com/vmilekhin/ml-topic1-timeseries) — Анализ временных рядов USD/RUB (ARIMA, negative result).
