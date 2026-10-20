@@ -18,6 +18,7 @@
 ### 🗄️ Базы данных: хранение и передача информации
 *Умею проектировать схемы PostgreSQL, использовать транзакции, анализировать планы запросов и применять векторные базы данных для эмбеддингов.*
 *   [**ml-module6-vector-db**](https://github.com/vmilekhin/ml-module6-vector-db) — Модуль 6: Векторные БД (сравнение Qdrant и PostgreSQL/pgvector).
+*   [**ml-module5-redis**](https://github.com/vmilekhin/ml-module5-redis) — Модуль 5: Redis (кэширование инференса и Rate Limiting).
 
 ### ⚙️ Углубленное программирование на С++
 *Умею применять RAII, smart pointers, move semantics, анализировать производительность и использовать санитайзеры.*
