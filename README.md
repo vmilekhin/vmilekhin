@@ -24,6 +24,7 @@
 *Умею применять RAII, smart pointers, move semantics, анализировать производительность и использовать санитайзеры.*
 *   [**sader**](https://github.com/vmilekhin/sader) — Модули 1-2: Учебный C++ проект (RAII, Worker/Executor, ProcessWorker).
 *   [**cpp-python-module**](https://github.com/vmilekhin/cpp-python-module) — Модуль 7: Производительность C++ и интеграция с Python через pybind11.
+*   [**cpp-module3-move-semantics**](https://github.com/vmilekhin/cpp-module3-move-semantics) — Модуль 3: Семантика копирования и перемещения (Rule of Five, `noexcept`).
 
 ### 🏠 Личное
 *   [**drive2-assistant**](https://github.com/vmilekhin/drive2-assistant) — RAG-ассистент на ChromaDB + Ollama.
