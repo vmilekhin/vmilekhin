@@ -26,6 +26,7 @@
 *   [**cpp-python-module**](https://github.com/vmilekhin/cpp-python-module) — Модуль 7: Производительность C++ и интеграция с Python через pybind11.
 *   [**cpp-module3-move-semantics**](https://github.com/vmilekhin/cpp-module3-move-semantics) — Модуль 3: Семантика копирования и перемещения (Rule of Five, `noexcept`).
 *   [**cpp-module4-templates-stl**](https://github.com/vmilekhin/cpp-module4-templates-stl) — Модуль 4: Шаблоны, Concepts, STL и Ranges (C++20).
+*   [**cpp-module6-multithreading**](https://github.com/vmilekhin/cpp-module6-multithreading) — Модуль 6: Многопоточность (Data Race, Mutex, Atomic, ThreadPool).
 
 ### 🏠 Личное
 *   [**drive2-assistant**](https://github.com/vmilekhin/drive2-assistant) — RAG-ассистент на ChromaDB + Ollama.
