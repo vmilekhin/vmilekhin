@@ -17,6 +17,7 @@
 Умею проектировать схемы PostgreSQL, использовать транзакции, анализировать планы запросов и применять векторные базы данных.
 
 - [stock_prediction](https://github.com/vmilekhin/stock_prediction) — Курсовая работа: Предсказание курса акций (PostgreSQL + ARIMA + Streamlit).
+- [db-module7-couchdb](https://github.com/vmilekhin/db-module7-couchdb) — Модуль 7: Документоориентированные БД (Apache CouchDB, HTTP API, Mango-запросы).
 - [ml-module5-redis](https://github.com/vmilekhin/ml-module5-redis) — Модуль 5: Redis (кэширование инференса и Rate Limiting).
 - [ml-module6-vector-db](https://github.com/vmilekhin/ml-module6-vector-db) — Модуль 6: Векторные БД (сравнение Qdrant и PostgreSQL/pgvector).
 
