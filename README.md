@@ -32,6 +32,7 @@
 - [cpp-python-module](https://github.com/vmilekhin/cpp-python-module) — Модуль 7: Производительность C++ и интеграция с Python через pybind11.
 
 🏠 Личное
+- [jarvis](https://github.com/vmilekhin/jarvis) — Локальный голосовой ассистент (Ollama + Whisper + Silero).
 - [fin-strategy](https://github.com/vmilekhin/fin-strategy) — Личный проект по финансовым стратегиям.
 - [fin_news_ai](https://github.com/vmilekhin/fin_news_ai) — LLM-система анализа финансовых новостей (RSS, SQLite, Ollama).
 - [drive2-assistant](https://github.com/vmilekhin/drive2-assistant) — RAG-ассистент на ChromaDB + Ollama.
