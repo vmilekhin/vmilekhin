@@ -9,6 +9,7 @@
 - [ml-module4-forecast](https://github.com/vmilekhin/ml-module4-forecast) — Модуль 4: Инженерный эксперимент (MLP vs LSTM на данных AAPL).
 - [ml-module5-debug](https://github.com/vmilekhin/ml-module5-debug) — Модуль 5: Отладка и диагностика ML (pdb, TensorBoard).
 - [ml-module6-nlp-lstm](https://github.com/vmilekhin/ml-module6-nlp-lstm) — Модуль 6: NLP и извлечение эмбеддингов через LSTM.
+- [ml-api-module8](https://github.com/vmilekhin/ml-api-module8) — Модуль 8: Создание ML API и сервисов (FastAPI, Pydantic, PyTorch, Batch-запросы).
 
 🎓 Адаптационный курс по машинному обучению и математике
 - [ml-topic1-timeseries](https://github.com/vmilekhin/ml-topic1-timeseries) — Анализ временных рядов USD/RUB (ARIMA, negative result).
